@@ -1,4 +1,5 @@
-# Power -BI_project
+# Netflix Data Analysis Project on Power BI
+
 Power BI Dashboard of Netflix Associate Data
 
 Business problem
